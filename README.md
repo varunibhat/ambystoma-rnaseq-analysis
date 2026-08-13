@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project investigated the expression of Hox11a, Hox11b and Hox11c genes during limb regeneration in Ambystoma mexicanum (axolotl) using RNA-seq data.
+This project investigated the expression of Hox11a, Hox11b and Hox11c genes during limb regeneration in *Ambystoma mexicanum* (axolotl) using RNA-seq data.
 
 ## Objectives
 - Analyze Hox11a, Hox11b and Hox11c expression across different regeneration stages
